@@ -11,3 +11,6 @@
 [branch "main"]
 	remote = origin
 	merge = refs/heads/main
+[branch "add/sample2"]
+	remote = origin
+	merge = refs/heads/add/sample2
